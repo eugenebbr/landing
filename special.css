@@ -1,0 +1,15 @@
+.special {
+  background-color: #f3f3f3;
+  padding: 20px;
+}
+
+.feature-pic {
+  padding: 40px;
+  background: #f3f3f3;
+}
+
+.feature-image {
+  border: 5px solid #422E39;
+  border-radius: 100%;
+  height: auto;
+}

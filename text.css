@@ -1,0 +1,36 @@
+.title-logo {
+  font-size: 40px;
+  margin-bottom: 18px
+  color: #fff;
+}
+
+.title-text {
+  font-size: 15px;
+  font-weight: normal;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.title-item {
+  color: #45362E;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.text-item {
+  font-size: 14px;
+  font-style: italic;
+}

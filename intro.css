@@ -1,0 +1,11 @@
+.intro {
+  background-color: rgba(0, 0, 0, 0);
+  background-image: url("logo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll, fixed;
+  background-position: 0 0%, center top;
+
+  color: #fff;
+  padding: 200px 200px 200px 20px;
+}
