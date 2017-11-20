@@ -1,6 +1,5 @@
 .intro {
   background-color: rgba(0, 0, 0, 0);
-  background-image: url("logo.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: scroll, fixed;
