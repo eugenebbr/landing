@@ -1,6 +1,6 @@
 .description {
   background: #ECF0F1;
-  padding: 30px;
+  padding: 40px;
 }
 
 .description-text {
@@ -14,4 +14,8 @@
   font-size: 24px;
   font-weight: bold;
   padding-bottom: 20px;
+}
+
+.hat-image, .feature-image {
+  max-width: 100%;
 }
